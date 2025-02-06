@@ -7,7 +7,7 @@
     {
       "id": 2,
       "name": "Price in USDX",
-      "value": "1"
+      "value": "0.098"
     },
     {
       "id": 3,
@@ -57,7 +57,7 @@
     {
       "id": 12,
       "name": "Presale End Time",
-      "value": "2024-11-27T23:59:59"
+      "value": "2025-02-10T23:59:59"
     },
     {
       "id": 13,
@@ -72,17 +72,17 @@
     {
       "id": 15,
       "name": "Telegram Link",
-      "value": "https://t.me/ZeroxFactory"
+      "value": "https://t.me/"
     },
     {
       "id": 16,
       "name": "Twitter Link",
-      "value": "https://twitter.com/0xFactoryCom"
+      "value": "https://twitter.com/"
     },
     {
       "id": 17,
       "name": "Listing Price",
-      "value": "1.5"
+      "value": "0.53"
     },
     {
       "id": 18,
@@ -102,12 +102,12 @@
     {
       "id": 21,
       "name": "Minimum Buy in USDX",
-      "value": "9"
+      "value": "2"
     },
     {
       "id": 22,
       "name": "Maximum Buy in USDX",
-      "value": "50000"
+      "value": "80000"
     }
     
   ]
