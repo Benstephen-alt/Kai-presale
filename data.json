@@ -7,7 +7,7 @@
     {
       "id": 2,
       "name": "Price in USDX",
-      "value": "0.098"
+      "value": "0.53"
     },
     {
       "id": 3,
@@ -52,7 +52,7 @@
     {
       "id": 11,
       "name": "Alert text",
-      "value": "For whitelist only, $300 minimum"
+      "value": "For whitelist only, $100 minimum"
     },
     {
       "id": 12,
@@ -82,7 +82,7 @@
     {
       "id": 17,
       "name": "Listing Price",
-      "value": "0.53"
+      "value": "0.83"
     },
     {
       "id": 18,
@@ -102,7 +102,7 @@
     {
       "id": 21,
       "name": "Minimum Buy in USDX",
-      "value": "0.5"
+      "value": "10"
     },
     {
       "id": 22,
