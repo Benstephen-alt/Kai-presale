@@ -7,17 +7,17 @@
     {
       "id": 2,
       "name": "Price in USDX",
-      "value": "0.5"
+      "value": "1.5"
     },
     {
       "id": 3,
       "name": "Title",
-      "value": "Kaiva coin Presale"
+      "value": "Kaiva automated trade"
     },
     {
       "id": 4,
       "name": "Description",
-      "value": "is a utility token that serves as the native currency on the Kaiva Chain platform: a crypto arbitrage platform that uses AI to automate crypto arbitrage trading.."
+      "value": "Cryptohopper automated trading has been activated on Kaiva chain coin and will be traded for 16 days befor return"
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
     {
       "id": 11,
       "name": "Alert text",
-      "value": "For whitelist only, $100 minimum"
+      "value": "Tradidin capital: $0.00"
     },
     {
       "id": 12,
@@ -81,8 +81,8 @@
     },
     {
       "id": 17,
-      "name": "Listing Price",
-      "value": "1.00"
+      "name": "Expected return",
+      "value": "75% + cap"
     },
     {
       "id": 18,
