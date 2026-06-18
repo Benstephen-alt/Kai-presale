@@ -52,12 +52,12 @@
     {
       "id": 11,
       "name": "Alert text",
-      "value": "Trading capital: $764.00"
+      "value": "Trading capital: $874.59"
     },
     {
       "id": 12,
       "name": "Presale End Time",
-      "value": "2026-06-13T23:59:59"
+      "value": "2026-07-03T23:59:59"
     },
     {
       "id": 13,
@@ -102,7 +102,7 @@
     {
       "id": 21,
       "name": "Minimum Buy in USDX",
-      "value": "10"
+      "value": "1"
     },
     {
       "id": 22,
